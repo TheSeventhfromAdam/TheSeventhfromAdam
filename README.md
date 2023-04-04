@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clyde, an <a href="https://www.linkedin.com/in/clyde-ogoti-947a65170/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Clyde, an <a href="https://www.linkedin.com/in/clyde-ogoti-947a65170/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

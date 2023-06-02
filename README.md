@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheSeventhfromAdam/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheSeventhfromAdam/configure-ad)
 - <b>Microsoft Azure Honey Pot </b>
-  - [Azure SOC project](https://github.com/TheSeventhfromAdam/Azure-SOC)
+  - [Azure SOC Project](https://github.com/TheSeventhfromAdam/Azure-SOC)
 
 <h2>🤳Connect with me:</h2>
 
